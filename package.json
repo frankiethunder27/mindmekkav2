@@ -1,0 +1,16 @@
+{
+  "name": "mindmekka-site",
+  "version": "1.0.0",
+  "description": "MindMekka website",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "resend": "^3.0.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.x"
+  }
+}
+
